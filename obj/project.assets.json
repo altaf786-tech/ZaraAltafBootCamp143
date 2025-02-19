@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\asp-net in c#\\product web app\\GitControl3\\GitControl3.csproj",
+      "projectUniqueName": "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\GitControl3.csproj",
       "projectName": "GitControl3",
-      "projectPath": "C:\\Projects\\asp-net in c#\\product web app\\GitControl3\\GitControl3.csproj",
+      "projectPath": "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\GitControl3.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\asp-net in c#\\product web app\\GitControl3\\obj\\",
+      "outputPath": "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

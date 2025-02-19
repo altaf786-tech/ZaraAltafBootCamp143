@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\GitControl3.csproj": {}
+    "C:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\ZaraAltafBootCamp143.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\GitControl3.csproj": {
+    "C:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\ZaraAltafBootCamp143.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\GitControl3.csproj",
-        "projectName": "GitControl3",
-        "projectPath": "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\GitControl3.csproj",
+        "projectUniqueName": "C:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\ZaraAltafBootCamp143.csproj",
+        "projectName": "ZaraAltafBootCamp143",
+        "projectPath": "C:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\ZaraAltafBootCamp143.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\obj\\",
+        "outputPath": "C:\\Projects\\asp-net in c#\\product web app\\asp.net\\GitHub Control\\ZaraAltafBootCamp143\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\bin\Debug\net8.0\GitControl3.exe
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\bin\Debug\net8.0\GitControl3.deps.json
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\bin\Debug\net8.0\GitControl3.runtimeconfig.json
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\bin\Debug\net8.0\GitControl3.dll
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\bin\Debug\net8.0\GitControl3.pdb
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.AssemblyInfoInputs.cache
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.AssemblyInfo.cs
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.csproj.CoreCompileInputs.cache
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.sourcelink.json
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.dll
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\refint\GitControl3.dll
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.pdb
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\GitControl3.genruntimeconfig.cache
+c:\Projects\asp-net in c#\product web app\asp.net\GitHub Control\ZaraAltafBootCamp143\obj\Debug\net8.0\ref\GitControl3.dll
